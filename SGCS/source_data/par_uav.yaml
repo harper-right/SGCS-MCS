@@ -1,0 +1,21 @@
+data_base: ./source_data/
+log_level: INFO
+global:
+  eta: 1e-2
+rand:
+  app_name: rand
+  max_stp_iter: 500
+flow:
+  app_name: flow
+  max_stp_iter: 500
+  mut_rate: 0
+loc:
+  app_name: loc
+  mut_rate: 0
+gene:
+  app_name: gene
+  pop_size: 50
+  sur_rate: 0.6
+  mut_rate: 0.25
+  max_stp_iter: 500
+  num_iters: 500
