@@ -19,7 +19,7 @@ This repository contains the implementation of a Stackelberg Game-based Quality 
 
 
 ## Dependencies
-- Python == 3.8 (Recommend to use [Anaconda](https://www.anaconda.com/download/#linux) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html))
+- Python == 3.10 (Recommend to use [Anaconda](https://www.anaconda.com/download/#linux) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html))
 ### Installation
 1. Clone repo
     ```bash
